@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_playmode_singlerepeat_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_playmode_singlerepeat_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_playmode_singlerepeat_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_playmode_singlerepeat_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_fullscreen.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_fullscreen.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_full_screen_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_full_screen_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/base_titlebar_bg.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/base_titlebar_bg.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_09.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_09.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_pause.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_pause.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_play_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_play_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_play_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_play_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_08.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_08.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/icon_notification_pre.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/icon_notification_pre.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_battery_10.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_battery_10.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_exit_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_exit_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_media_list.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_media_list.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_playmode_all_repeat_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_playmode_all_repeat_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_battery_100.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_battery_100.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_next_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_next_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_pause_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_pause_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_play_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_play_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_battery_40.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_battery_40.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_pause_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_pause_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/music_default_bg.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/music_default_bg.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/bg_player_bottom_seekbar.9.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/bg_player_bottom_seekbar.9.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_pre_gray.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_pre_gray.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_media_item.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_media_item.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_battery_20.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_battery_20.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_06.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_06.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_music_list_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_music_list_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_next.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_next.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/seekbar_thumb.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/seekbar_thumb.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_05.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_05.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_voice_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_voice_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/bg_player_top_control.9.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/bg_player_top_control.9.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_pre.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_pre.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_next_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_next_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/base_left_button_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/base_left_button_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/seekbar_progress.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/seekbar_progress.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_default_screen_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_default_screen_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_full_screen_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_full_screen_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/progress_horizotal.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/progress_horizotal.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_pre_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_pre_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_pre_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_pre_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_playmode_random_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_playmode_random_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/bg_player_status.9.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/bg_player_status.9.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/icon_notification_next.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/icon_notification_next.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_next_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_next_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_03.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_03.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/bg_player_bottom_control.9.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/bg_player_bottom_control.9.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_pause_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_pause_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_play.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_play.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_exit.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_exit.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_02.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_02.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/base_left_button_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/base_left_button_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_defaultscreen.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_defaultscreen.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/rogress_horizontal.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/rogress_horizontal.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/seekbar_background.9.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/seekbar_background.9.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_battery_80.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_battery_80.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_next_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_next_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_default_screen_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_default_screen_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_battery_0.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_battery_0.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_music_list_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_music_list_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_exit.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_exit.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_title_text.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_title_text.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/bg_player_loading_background.9.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/bg_player_loading_background.9.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_01.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_01.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/selector_voice.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/selector_voice.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_seek_thumb.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_seek_thumb.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_play_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_play_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_playmode_random_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_playmode_random_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_playmode_all_repeat_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_playmode_all_repeat_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/ic_battery_60.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/ic_battery_60.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_voice_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_voice_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_pre_pressed.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_pre_pressed.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_pre_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_pre_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_04.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_04.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_audio_pause_normal.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_audio_pause_normal.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/btn_next_gray.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/btn_next_gray.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/audio_anim_07.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/audio_anim_07.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/icon_notification.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/icon_notification.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/base_bg.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/base_bg.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/video_default_icon.png",
+        "source": "/opt/AndroidProjects/mobileplayer/app/src/main/res/drawable/video_default_icon.png"
+    },
+    {
+        "merged": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/opt/AndroidProjects/mobileplayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    }
+]

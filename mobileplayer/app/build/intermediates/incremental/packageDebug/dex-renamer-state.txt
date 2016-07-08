@@ -1,0 +1,7 @@
+#Wed Jul 06 22:03:35 CST 2016
+base.0=/opt/AndroidProjects/mobileplayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b81024703788880c1a1a81f5274e8a43fbd132e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/opt/AndroidProjects/mobileplayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1942a403a95b02ea1e392641a67a29e0826143e6/classes.dex
+base.1=/opt/AndroidProjects/mobileplayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1942a403a95b02ea1e392641a67a29e0826143e6
+file.0=/opt/AndroidProjects/mobileplayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b81024703788880c1a1a81f5274e8a43fbd132e/classes.dex
